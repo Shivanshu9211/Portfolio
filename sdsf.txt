@@ -1,0 +1,50 @@
+Hi! I'm Shivanshu Tiwari. I am student of Oriental College of Technology. I was born and raised in Bhopal and have always been interested in new technologies. Since childhood technologies hav been facinating for me therefore I always wanted to be a
+                    software engineer. And I looking to start the career as an entry-level software engineer with a reputed firm driven by technology. I’ve been working on my portfolio since high school, but now it’s time to show the world what I’ve got. And that’s why I’ve created this website—so you can see my work so far and get a sense of who I am as a developer.
+
+
+
+
+                    --------------------------------------------------------------------
+
+
+
+ <section class="services" id="services">
+        <h2 class="heading">Our <span>Services</span></h2>
+        <div class="services-container">
+
+            <div class="services-box">
+                <i class='bx bx-code-alt'></i>
+                <h3>Web Development</h3>
+                <p> I’m passionate about everything that goes into making websites work well and look beautiful. The web is my passion because it’s where I can find the most exciting projects to work on. It’s also where I get to express my creativity in ways that are hard to find elsewhere.</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
+    </div>
+    </section>
+
+
+
+
+
+
+    <section class="about" id="about">
+      <div class="about-img">
+        <img src="images/me.jpg" alt="" />
+      </div>
+
+      <div class="about-content">
+        <h2 class="heading">About <span>Me</span></h2>
+        <h3>Shivanshu Tiwari</h3>
+        <p>
+          Hi! I'm Shivanshu Tiwari. I am student of Oriental College of
+          Technology. I was born and raised in Bhopal and have always been
+          interested in new technologies. Since childhood technologies hav been
+          facinating for me therefore I always wanted to be a software engineer.
+          And I looking to start the career as an entry-level software engineer
+          with a reputed firm driven by technology. I’ve been working on my
+          portfolio since high school, but now it’s time to show the world what
+          I’ve got. And that’s why I’ve created this website—so you can see my
+          work so far and get a sense of who I am as a developer.
+        </p>
+        <a href="#" class="btn">Read More</a>
+      </div>
+    </section>
